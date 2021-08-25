@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "19th\nPowered By Fairyland Studio",
+        "name": "§lREJS 19th",
+        "uuid": "016eefd4-a24c-b2e5-9abd-40af28099af9",
+        "version": [1, 5, 3],
+        "min_engine_version": [1, 16, 0]
+    },
+    "modules": [
+        {
+            "description": "REJS",
+            "type": "resources",
+            "uuid": "cbb1dd64-a22a-b6a5-0935-c77239fa1b58",
+            "version": [1, 5, 3]
+        }
+    ]
+}
